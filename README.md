@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Lara</h1>
-<h3 align="center">A passionate Software Developer from Perú</h3>
+<h3 align="center">A FullStack Developer based in Lima, Peru.</h3>
 
 - Im currently learning **Next.js, Typescript, Express and Swift**
 
